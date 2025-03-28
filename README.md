@@ -28,6 +28,33 @@ Onde Podem me econtrar:
 ## Portfólio e Principais Projetos
 <br>
 
-### Contoso Sales Dashboard
+###  Dashboard de Vendas – Contoso
+<br>
+Minha jornada na análise de dados começa aqui!
+<br>
+Este projeto foi desenvolvido para transformar dados brutos da empresa Contoso em insights estratégicos e visualmente impactantes usando Power BI.
+<br>
+ O objetivo? Criar uma solução intuitiva que permite explorar as vendas de forma dinâmica, otimizando a tomada de decisão.
+<br><br>
+  O que você encontrará neste dashboard?
+  <br><br>
+✅ Vendas por vendedor – Descubra quem são os top performers da empresa.<br>
+✅ Mapa de vendas – Visualize geograficamente onde as vendas estão acontecendo.<br>
+✅ Performance de vendas – Acompanhe tendências e compare períodos.<br>
+✅ Custo de vendas por categoria – Analise a rentabilidade de cada segmento.<br>
+✅ Ranking Pareto (80/20) – Saiba quais produtos geram a maior fatia do faturamento.<br>
+<br>
+Impacto do projeto
+<br>
+Antes, as informações estavam dispersas e difíceis de interpretar. Agora, com segmentações interativas e análises comparativas (YoY, YTD, MoM), qualquer gestor pode rapidamente tomar decisões embasadas em dados.
+<br>
+Este é apenas o começo da minha transição para a área de análise de dados.
+<br>
+Feedbacks são bem-vindos! 
+<br><br>
+<img align="center" width="500"  src="https://github.com/AlexOliveira91/Print-porti/blob/main/Custo%20de%20vendas%20att.png?raw=true">
+
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzE3NjRiZGEtMjhiNS00YzQwLWJkYTUtMmQ4YmM1ODM3ZjI0IiwidCI6IjRiZjRlYTYyLTUwZDEtNDVjZS1hYTJmLWVmNWVhZTZiMmJiNyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 
 
