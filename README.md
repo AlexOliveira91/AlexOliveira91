@@ -1,17 +1,33 @@
-## Hi there 👋
-# I'm Alex
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**AlexOliveira91/AlexOliveira91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, Me chamo Alex Oliveira 😁
 
-Here are some ideas to get you started:
+## Especialista em Business Intelligence
+
+Sobre mim:
+
+- 🔭 Estou migrando de carreira para Data Analyst
+- 🏠 Atualmente moro e trabalho no Brasil
+- 🌱 Gosto Muito de usar Analise de dados para gerar performance!
+  <br>
+ ### Principais Ferramentas:
+<br>
+<div>
+  <img height="40" width="40" src="https://github.com/AlexOliveira91/Portfolio/blob/main/linguagens/sql.png?raw=true">
+  <img height="40" width="40" src="https://github.com/AlexOliveira91/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">  
+</div>
+<br>
+Onde Podem me econtrar:
+<br><br>
+<div>
+  <a href="https://www.linkedin.com/in/alex-oliveira-1a48a7266/">
+    <img height="40" width="40" src="https://github.com/AlexOliveira91/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  </a>
+</div>
+<br>
 
 
--->
+## Portfólio e Principais Projetos
+<br>
+
+### Contoso Sales Dashboard
+
+
