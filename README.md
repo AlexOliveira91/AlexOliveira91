@@ -1,6 +1,6 @@
 ### Olá, Me chamo Alex Oliveira 😁
 
-## Especialista em Business Intelligence
+## Especialista em Data Analytics
 
 Sobre mim:
 
